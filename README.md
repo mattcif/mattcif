@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Matheus Fernandes 👋
 
 
-- 🔭 Hoje cursando Engenharia de Software
+- 🔭 Hoje cursando Engenharia de Software no 3o ano
 - 🌱 Estudando: Desenvolvimento Backend em Java e Frontend em JS/TS 
 
 ##
