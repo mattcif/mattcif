@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje cursando Engenharia de Software
-- 🌱 Estudando: Desenvolvimento Backend em Java e Android Nativo com Kotlin
+- 🌱 Estudando: Desenvolvimento Backend em Java Frontend em JS/TS 
 
 ##
 <div style="display: inline_block"><br>
